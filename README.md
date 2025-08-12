@@ -11,3 +11,14 @@ This project predicts gold prices using Linear Regression and displays results v
 
 
 
+
+
+
+
+
+
+
+
+
+
+
