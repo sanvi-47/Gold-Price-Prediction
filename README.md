@@ -1,11 +1,12 @@
 # Gold Price Prediction
 This project predicts gold prices using Linear Regression and displays results via a Gradio interface. It trains on historical data (Days vs GoldPrice), evaluates with MSE, and allows users to input a number of days to get a predicted price. The model can be expanded with real data for better accuracy.Implements a supervised machine learning model using Linear Regression for price forecasting. Uses historical time-series data to identify trends in gold prices. Designed with a simple and user-friendly interface using Gradio.
+
 🔹Features :
-Real-time prediction based on user input (number of days)
-Lightweight and fast model suitable for quick predictions
-Interactive UI for easy experimentation
-Modular code structure for easy enhancements
-Scalable design to integrate live financial data APIs
+* Real-time prediction based on user input (number of days)
+* Lightweight and fast model suitable for quick predictions
+* Interactive UI for easy experimentation
+* Modular code structure for easy enhancements
+* Scalable design to integrate live financial data APIs
 
 🔹 Tech Stack :
 Python
