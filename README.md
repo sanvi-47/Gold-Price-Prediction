@@ -9,36 +9,36 @@ This project predicts gold prices using Linear Regression and displays results v
 * Scalable design to integrate live financial data APIs
 
 🔹 Tech Stack :
-Python
-Pandas (data preprocessing)
-NumPy (numerical operations)
-Scikit-learn (model building)
-Gradio (UI interface)
+* Python
+* Pandas (data preprocessing)
+* NumPy (numerical operations)
+* Scikit-learn (model building)
+* Gradio (UI interface)
 
 🔹 Model Details :
-Used Linear Regression algorithm for prediction
-Split dataset into training and testing sets
-Evaluated performance using Mean Squared Error (MSE)
-Visualized relationship between input (days) and output (price)
+* Used Linear Regression algorithm for prediction
+* Split dataset into training and testing sets
+* Evaluated performance using Mean Squared Error (MSE)
+* Visualized relationship between input (days) and output (price)
 
 🔹 Workflow :
-Data collection and preprocessing
-Feature selection (Days vs Gold Price)
-Model training using Linear Regression
-Model evaluation using MSE
-Deployment using Gradio interface
+* Data collection and preprocessing
+* Feature selection (Days vs Gold Price)
+* Model training using Linear Regression
+* Model evaluation using MSE
+* Deployment using Gradio interface
 
 🔹 Future Improvements :
-Integrate real-time data using APIs (like gold price APIs)
-Improve accuracy using advanced models (Random Forest, LSTM)
-Add data visualization dashboards
-Deploy on cloud platforms (AWS/GCP)
-Enhance UI with better design and charts
+* Integrate real-time data using APIs (like gold price APIs)
+* Improve accuracy using advanced models (Random Forest, LSTM)
+* Add data visualization dashboards
+* Deploy on cloud platforms (AWS/GCP)
+* Enhance UI with better design and charts
 
 🔹 Use Cases :
-Financial trend analysis
-Educational ML project
-Basic forecasting system prototype
+* Financial trend analysis
+* Educational ML project
+* Basic forecasting system prototype
 
 
 
